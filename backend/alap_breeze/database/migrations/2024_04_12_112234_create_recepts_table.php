@@ -21,6 +21,8 @@ return new class extends Migration
             $table->string('leiras');
             $table->timestamps();
         });
+
+       
     }
 
     /**
